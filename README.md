@@ -78,10 +78,18 @@ uv add torch matplotlib numpy
 pip install torch matplotlib numpy
 ```
 
-### Run the Demo
+### Quick Demo (30 seconds)
+
+```bash
+# See key results immediately
+uv run python demo.py
+```
+
+### Full Implementation Demo
 
 ```bash
 # Run the working implementation
+# Run the complete working implementation
 uv run python run_mps_topk_mlp_fixed.py
 
 # Analyze computational scaling
