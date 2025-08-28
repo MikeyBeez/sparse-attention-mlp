@@ -223,7 +223,7 @@ Critical for:
 
 ## 🔬 Research Context
 
-Based on the paper: **"Attention Heads Can Be Approximated by Simple Neural Networks"** by Bonsignori, M. (2024)
+Based on the paper: **"Attention Heads Can Be Approximated by Simple Neural Networks"** by Bee, M. (2024)
 
 Key insight: Most attention heads learn relatively simple patterns that can be approximated by much smaller MLPs, especially when combined with top-K key selection.
 
